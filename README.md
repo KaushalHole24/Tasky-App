@@ -41,7 +41,7 @@ A modern and interactive task management application built using HTML, CSS, and 
 
 ## 📸 Screenshot
 
-<img width="1422" height="799" alt="Screenshot 2026-03-30 at 8 12 19 PM" src="https://github.com/user-attachments/assets/69796443-a93f-4654-93c2-76830af0848d" />
+<img width="1402" height="775" alt="Screenshot 2026-04-02 at 12 54 31 PM" src="https://github.com/user-attachments/assets/d09f6406-903c-4d04-8ca5-2d3443c45995" />
 
 ---
 
